@@ -46,3 +46,8 @@ For instance, if you are using a Mac, then you downloaded `Banana.app`.  If this
 ```
 env = UnityEnvironment(file_name="Banana.app")
 ```
+
+### Instructions
+
+run `Navigation.ipynb` in jupyter notebook, you must change kernel to drlnd kernel.
+if train success notebook save model.pt file in same directory
